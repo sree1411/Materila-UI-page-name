@@ -30,7 +30,7 @@ export default function App() {
 
    <Container>
      <Row>
-        <Col xs={12} md={6}>
+        <Col xs={12} md={5}>
           <AddUser  refresh={refresh} setRefresh={setRefresh} />
         </Col>
         <Col xs={12} md={6}>
